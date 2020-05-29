@@ -12,4 +12,15 @@ Below is a list of directories and the programs within them:
      - Handles fights in Rules84
    - Loot
      - Manages looting
-3. 
+3. Utility (Utility Programs)
+   - R
+     - Calculates the linear regression coefficient "r" for a set of data or for input summary stats.
+4. Wanderer (A Rogue-Like RPG for the TI84)
+   - Wanderer
+     - Entry point and driving program for wanderer
+   - Dungeon
+     - Handles dungeon functionality 
+   - Battle
+     - Handles battles
+   - Stats
+     - Allows player to see their stats
