@@ -1,7 +1,7 @@
 # TI84_Games_and_Programs
 In this directory there are a collection of games and useful programs for the TI84 that I've written since high school and recently started maintaining. 
 
-To build these programs, simply install them on to your TI84 plus or above model calculator and run the entry program for whatever game or utility you wish to use. These have not been tested on regular TI84 and below models of Texas Instrument calculators, so I give no warranty that they will function on them. However, if you have a calculator that is model TI84 or below and manage to get one or more of these programs working, please contact me and I will update this notice with that information.
+To build these programs, simply install them on to your TI84 plus or above model calculator through TI Connect or TI Connect CE and run the entry program for whatever game or utility you wish to use. These have not been tested on regular TI84 and below models of Texas Instrument calculators, so I give no warranty that they will function on them. However, if you have a calculator that is model TI84 or below and manage to get one or more of these programs working, please contact me and I will update this notice with that information.
 
 Below is a list of directories and the programs within them. (All programs are Entry Programs unless otherwise noted):
 ## 1. Misc (Miscellaneous Games)
