@@ -7,7 +7,7 @@ Below is a list of directories and the programs within them:
 1. Misc (Miscellaneous Games)
    - Guess
      - The player guesses a number 1-1000
-2. Rules84 (An implementation of Rules of Survival for the TI84)
+2. Rules84 (A Battle-Royale game for the TI84)
    - Rules84
      - Entry point for the game
    - Rush
