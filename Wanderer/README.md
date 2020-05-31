@@ -1,5 +1,5 @@
 # Wanderer
-A rogue-like RPG for the TI84 calculator.
+A Rogue-Like RPG for the TI84 calculator.
 
 ## Programs Used
 Program|Description|Called In|
