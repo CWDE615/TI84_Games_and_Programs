@@ -1,5 +1,5 @@
 # Rules84
-An implementation of the mobile Battle-Royale style of games that were ubiquidous during my high school years.
+An implementation of the mobile Battle Royale style of games that were ubiquidous during my high school years.
 
 ## Programs Used
 Program|Description|Called In|
