@@ -7,7 +7,11 @@ Below is a list of directories and the programs within them:
 |:---|:----------|
 |Guess|lorem ipsum|
 ## 2. Rules84 (A Battle Royale game for the TI84)
-
+Program|Description|Called In|
+:------|:----------|:--------|
+Rules84|An entry point for the program. Also manages the overworld and movement of control to Loot and Rush|Entry Program
+Loot   |Manages the looting of verious places throughout the overworld|Rules84
+Rush   |Manages confrontations between the player and enemies which may happen randomly through Rules84 or Loot|Rules84 and Loot
 ## 3. Utility (Utility Programs)
 |Program|Description|
 |:---|:----------|
