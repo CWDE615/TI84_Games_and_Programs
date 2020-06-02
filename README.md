@@ -10,7 +10,7 @@ Below is a list of directories and the programs within them. (All programs are E
 ### 1. Misc (Miscellaneous Games)
 |Game|Description|
 |:---|:----------|
-|Guess|This single file program is a simple guessing game in which one number 1 through 1000 is generated and the user is asked to guess it while being told whether their guesses are too low or too high.|
+|Guess|A simple guessing game in which one number 1 through 1000 is generated and the user is asked to guess it while being told whether their guesses are too low or too high.|
 ### 2. Rules84 (A Battle Royale game for the TI84)
 Program|Description|Called In|
 :------|:----------|:--------|
