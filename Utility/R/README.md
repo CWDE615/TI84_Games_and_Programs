@@ -12,5 +12,5 @@ Z| The total sum of the squeared X values from the paired data
 Theta| the total sum of the squared Y values from the paired data
 W| The total sum of multiplied corressponding X and Y values.
 R| The result of calculations to obtain the correlation coefficient. Squared to make the soefficient of determination
-List 1| One of the lists on which the program runs 2 Var Stats to calculate R and R^2
-List 2| One of the lists on which the program runs 2 Var Stats to calculate R and R^2
+List R1| One of the lists on which the program runs 2 Var Stats to calculate R and R^2. This list does not come preinstalled on TI calculators but will be created and initialized on your machine when you first run the program and chose to calculate R from data.
+List R2| One of the lists on which the program runs 2 Var Stats to calculate R and R^2. This list does not come preinstalled on TI calculators but will be created and initialized on your machine when you first run the program and chose to calculate R from data.
