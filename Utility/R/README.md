@@ -4,7 +4,7 @@ A program I wrote recently to calculate the correlation coefficient R and the co
 ## Variables Used
 Variable|Use|
 :-------|:--|
-Various Stat Vars| Used to calculate R and R^2 from data
+Various Stat Vars| Calculation of R and R^2 from data
 N| The number of elements in the data set 
 X| The sample mean of the X values from the paired data
 Y| The sample mean of the Y values from the paired data
